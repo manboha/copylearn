@@ -2,8 +2,8 @@
 title: "[필사] Dumbbell Graph in R"
 date: 2020-09-07
 output: 
- md_document:
-    variant: markdown_github
+  html_document:
+    keep_md: true
 ---
 
 ```{r setup, include=FALSE}
